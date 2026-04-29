@@ -119,8 +119,6 @@ All results are saved to the `results/` directory:
 
 ## Citation
 
-If you use this code, please cite:
-
 - Kaplan et al. (2020): "Scaling Laws for Neural Language Models"
 
 ## License
